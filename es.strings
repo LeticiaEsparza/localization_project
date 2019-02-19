@@ -24,6 +24,7 @@
 "products"= "productos";
 "users" = "usuarios";
 
+// fields from order items table
 "IDs" = "identificaciones";
 "id" = "identificación";
 "inventory_item_id" = "ID de artículo de inventario";
@@ -31,6 +32,12 @@
 "returned" = "devuelto";
 "sale_price" = "precio de venta";
 "count" = "conteo";
+
+// fields from orders table
 "created" = "creado";
 "status" = "estado";
 "user_id" = "identificación del usuario";
+
+//for gender field + liquid test from users table
+"female" = "Hembra";
+"male" = "Masculino";

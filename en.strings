@@ -23,6 +23,7 @@
 "products"= "Products";
 "users" = "Users";
 
+// fields from order items table
 "IDs" = "ID Fields";
 "id" = "ID";
 "inventory_item_id" = "Inventory Item ID";
@@ -30,6 +31,12 @@
 "returned" = "Returned";
 "sale_price" = "Sale Price";
 "count" = "Count";
+
+// fields from orders table
 "created" = "Created";
 "status" = "Status";
 "user_id" = "User ID";
+
+//for gender field + liquid test from users table
+"female" = "Female";
+"male" = "Male";
