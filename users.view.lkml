@@ -52,6 +52,16 @@ view: users {
     sql: ${TABLE}.gender ;;
   }
 
+  dimension: gender_localized {
+    type: string
+    sql:
+        CASE WHEN ${TABLE}.gender = "f" THEN "{{ _localization['female'] }}"
+        ELSE "{{ _localization['male'] }}"
+        END
+    ;;
+
+  }
+
   dimension: last_name {
     type: string
     sql: ${TABLE}.last_name ;;
