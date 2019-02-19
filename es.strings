@@ -31,3 +31,6 @@
 "returned" = "devuelto";
 "sale_price" = "precio de venta";
 "count" = "conteo";
+"created" = "creado";
+"status" = "estado";
+"user_id" = "identificación del usuario";
