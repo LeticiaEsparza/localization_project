@@ -17,14 +17,14 @@
 // To choose this file as the master key list and as the one to validate against,
 // set its locale code ("es") as the default_locale in the manifest file.
 
-"order_items" = "encargar_artículos";
+"order_items" = "artículos del orden";
 "orders" = "ordenes";
 "inventory_items" = "artículos de inventario";
 "events" = "eventos";
 "products"= "productos";
 "users" = "usuarios";
 
-"IDs" = "Identificaciones";
+"IDs" = "identificaciones";
 "id" = "identificación";
 "inventory_item_id" = "ID de artículo de inventario";
 "order_id" = "ID de orden";
