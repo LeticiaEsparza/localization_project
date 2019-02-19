@@ -30,3 +30,6 @@
 "returned" = "Returned";
 "sale_price" = "Sale Price";
 "count" = "Count";
+"created" = "Created";
+"status" = "Status";
+"user_id" = "User ID";
