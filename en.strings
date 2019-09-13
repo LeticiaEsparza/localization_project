@@ -40,3 +40,6 @@
 //for gender field + liquid test from users table
 "female" = "Female";
 "male" = "Male";
+"Localization testing" = "Localization testing";
+"Test" = "Test";
+"This is a <br> new line" = "This is a <br> new line";

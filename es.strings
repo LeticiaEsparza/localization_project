@@ -41,3 +41,6 @@
 //for gender field + liquid test from users table
 "female" = "Hembra";
 "male" = "Masculino";
+"Localization testing" = "prueba de localización";
+"Test" = "Pruerba";
+"This is a <br> new line" = "esta es <br> una nueva linea";
