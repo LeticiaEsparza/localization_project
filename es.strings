@@ -39,6 +39,7 @@
 "user_id" = "identificación del usuario";
 
 //for gender field + liquid test from users table
+"gender" = "Género";
 "female" = "Hembra";
 "male" = "Masculino";
 "Localization testing" = "prueba de localización";

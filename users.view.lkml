@@ -53,6 +53,7 @@ view: users {
   }
 
   dimension: gender_localized {
+    label: "gender"
     type: string
     sql:
         CASE WHEN ${TABLE}.gender = "f" THEN "{{ _localization['female'] }}"
