@@ -38,7 +38,7 @@
 "user_id" = "User ID";
 
 //for gender field + liquid test from users table
-"gender" = "Gender";
+"gender" = "Gender Localized";
 "female" = "Female";
 "male" = "Male";
 "Localization testing" = "Localization testing";
